@@ -1,4 +1,4 @@
-# ENC-DEC-project 💻💻
+# ENC-DEC-project || مشروع تشفير و فك التشفير 💻💻
 this project can do encryption and decryption using 3 methods
 
 <ul>
