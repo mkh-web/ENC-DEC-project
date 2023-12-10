@@ -1,10 +1,10 @@
-# ENC-DEC-project
+# ENC-DEC-project 💻💻
 this project can do encryption and decryption using 3 methods
 
 <ul>
-  <li>caesar
-  <li>Vigenère
-  <li>playfair
+  <li>Caesar 📱
+  <li>Vigenère 📒
+  <li>Play Fair 📖
 
 <h1>what is Encryption?</h1>
 its a way of hiding the true meaning of you message from other attackers and inspectors
